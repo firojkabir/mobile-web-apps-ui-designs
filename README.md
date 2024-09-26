@@ -1,14 +1,13 @@
 # UI Designs for Mobile and Web Applications
 
-This repository showcases a collection of UI/UX designs for mobile and web applications that I have recently created using **Figma**. Each section includes a brief description of the app, its purpose, and a link to the interactive Figma prototype.
+This repository showcases a collection of UI designs for mobile and web applications that I have recently created using **Figma**. Each section includes a brief description of the app, its purpose, and a link to the interactive Figma prototype.
 
 ## Table of Contents
 * [GentWear](#app-1-gentwear)
 * [Little Rome Cafe](#app-2-little-rome-cafe)
 * [Clothing Store](#app-3-clothing-store)
 * [CoSpace](#app-4-cospace)
-* [TravelMate](https://www.figma.com/proto/LubfCWhLrhJFaY50RVRSFx/GentWear?node-id=1-2&node-type=frame&t=9pUZU9HLg5cshI4l-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
-* [Fashion](https://www.figma.com/proto/LubfCWhLrhJFaY50RVRSFx/GentWear?node-id=1-2&node-type=frame&t=9pUZU9HLg5cshI4l-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+* [One Medical](#app-5-one-medical)
 
 ##
 
@@ -70,14 +69,16 @@ CoSpace is a minimalistic-designed app for an upcoming co-working space that off
 
 ##
 
-### App 5: TravelMate
+### App 5: One Medical
 **Description:**
 
-FashionX is a men's fashion app that helps users discover trendy clothing, create personalized wardrobes, and shop directly through the app. The app offers a modern, clean UI with seamless navigation.
+**One Medical** web application features a minimalistic design, focusing on simplicity and user-friendliness. With clean layouts, ample white space, and intuitive navigation, the interface ensures a distraction-free experience, allowing users to easily access key functionalities. The minimal design enhances usability.
 
 **Figma Prototype:**
 
-[Fashion](https://www.figma.com/proto/LubfCWhLrhJFaY50RVRSFx/GentWear?node-id=1-2&node-type=frame&t=9pUZU9HLg5cshI4l-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+[One Medical](https://www.figma.com/proto/XR9ioIn6kK5yRFZsAkQCIK/One-Medical?node-id=1-2&node-type=frame&t=bmxO3bsrbxPtxsFL-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+
+![one-medical](https://github.com/user-attachments/assets/895fa5ae-2a03-4496-9fb8-75d3efdebbd4)
 
 ##
 
