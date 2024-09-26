@@ -3,10 +3,10 @@
 This repository showcases a collection of UI/UX designs for mobile and web applications that I have recently created using **Figma**. Each section includes a brief description of the app, its purpose, and a link to the interactive Figma prototype.
 
 ## Table of Contents
-* [GentWear](https://www.figma.com/proto/LubfCWhLrhJFaY50RVRSFx/GentWear?node-id=1-2&node-type=frame&t=9pUZU9HLg5cshI4l-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
-* [Little Rome Cafe](https://www.figma.com/proto/q1H23tGjl3ndQdPimJALPI/Little-Rome-Cafe?node-id=1-2&node-type=frame&t=3YCXZKo8ALyXwcwl-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
-* [Clothing Store](https://www.figma.com/proto/Qjhok316dvUflUIl1kzlLV/Clothing-store?node-id=3-2&node-type=frame&t=YqUT34c5o5pXMU7i-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2)
-* [CoSpace](https://www.figma.com/proto/Ve7fKmP9JhAOoK5HIOGjQ1/CoSpace?t=YqUT34c5o5pXMU7i-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2)
+* [GentWear](#app-1-gentwear)
+* [Little Rome Cafe](#app-2-little-rome-cafe)
+* [Clothing Store](#app-3-clothing-store)
+* [CoSpace](#app-4-cospace)
 * [TravelMate](https://www.figma.com/proto/LubfCWhLrhJFaY50RVRSFx/GentWear?node-id=1-2&node-type=frame&t=9pUZU9HLg5cshI4l-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 * [Fashion](https://www.figma.com/proto/LubfCWhLrhJFaY50RVRSFx/GentWear?node-id=1-2&node-type=frame&t=9pUZU9HLg5cshI4l-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 
