@@ -6,7 +6,9 @@ This repository showcases a collection of UI designs for mobile and web applicat
 * [GentWear](#app-1-gentwear)
 * [Little Rome Cafe](#app-2-little-rome-cafe)
 * [Clothing Store](#app-3-clothing-store)
-* [CoSpace](#app-4-cospace)
+* [Foodie](#app-4-foodie)
+* [Ridey](#app-5-ridey)
+* [CoSpace](#app-6-cospace)
 * [One Medical](#app-5-one-medical)
 
 ##
@@ -56,7 +58,39 @@ Product/Service search apps are frequently over-detailed and disorderly. Instead
 
 ##
 
-### App 4: CoSpace
+### App 4: Foodie
+**Description:**
+
+**Foodie** app UI design features vibrant imagery of dishes and a streamlined layout, allowing users to effortlessly browse and view menus, place orders. Key screens include a visually appealing home screen with category filters, a detailed menu page, and a simplified checkout process. Thoughtfully selected fonts and a gray/white background color palette enhance the visual appeal, while smooth navigation and minimalistic icons ensure accessibility and ease of use for all users.
+
+**Figma Prototype:**
+
+[Foodie](https://www.figma.com/proto/0HWx035mnJRh8jWZfksBuo/foodie?node-id=0-1&t=LmcwmIjlOARlmVgg-1)
+
+![foodie](https://github.com/user-attachments/assets/286df74b-5af1-4f6f-bbe1-5fd081c196c3)
+
+[Design idea](https://www.behance.net/search/projects/food%20app)
+
+##
+
+### App 5: Ridey
+**Description:**
+
+**Ridey** app mobile UI design in Figma showcases a modern, dark-themed interface with striking yellow accents for a bold and energetic look. The dark background contrasts with vibrant yellow elements to highlight key actions and guide the user's eye intuitively through the app. Key screens include a streamlined home screen with options for quick bike/scooter rentals, an interactive map for locating nearby bikes/scooters, and a booking page with payment options. The typography is sleek and legible, enhancing readability against the dark background, while minimalistic icons and smooth navigation create an effortless and engaging user experience.
+
+**Figma Prototype:**
+
+[Ridey](https://www.figma.com/proto/LU4WJxv4PigiarEDagYuko/ridey?node-id=0-1&t=YeOxZcyxztZ5zhCA-1)
+
+![ridey01](https://github.com/user-attachments/assets/c9e70b25-1d16-4b33-8624-48e590e9f71f)
+![ridey02](https://github.com/user-attachments/assets/1841aa2f-5ab4-4e22-bfd0-4bd9c4a79cc8)
+
+
+[Design idea](https://uizard.io/templates/mobile-app-templates/bike-rental-mobile-app/)
+
+##
+
+### App 6: CoSpace
 **Description:**
 
 CoSpace is a minimalistic-designed app for an upcoming co-working space that offers a pet-friendly environment, 24/7 access, and unlimited coffee to fuel your productivity. Stay tuned for the launch and be the first to know by registering for opening notifications directly through the app!
